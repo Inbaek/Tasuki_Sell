@@ -1,0 +1,1 @@
+<a class="navbar-brand" href="kosho_seiritsu.php">交渉成立申請</a>
